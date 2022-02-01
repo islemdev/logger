@@ -1,0 +1,8 @@
+--- call http://localhost:8000/polls/show/1111/ at 2022-Jan-31 01:35:36 ---
+Request : 1111
+Response : stdClass Object
+(
+    [code] => 0
+    [message] => numero de carte inexistant
+)
+
