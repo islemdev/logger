@@ -1,0 +1,135 @@
+--- call http://localhost:8000/polls/show/22222222/ at 2022-Feb-02 15:43:15 ---
+Request : 22222222
+Response : stdClass Object
+(
+    [code] => 0
+    [message] => numero de carte inexistant
+)
+
+--- call http://localhost:8000/polls/show/11111111/ at 2022-Feb-02 15:43:28 ---
+Request : 11111111
+Response : stdClass Object
+(
+    [code] => 1
+    [citoyen] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [nom] => Hajji
+                    [prenom] => Yassine
+                    [email] => yassinehajji@gmail.com
+                )
+
+        )
+
+    [infraction] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [date_creation] => 2022-02-01
+                    [montant] => 60
+                    [etat_paiement] => 0
+                )
+
+        )
+
+)
+
+--- call http://localhost:8000/polls/show/11111111/ at 2022-Feb-02 16:01:10 ---
+Request : 11111111
+Response : stdClass Object
+(
+    [code] => 1
+    [citoyen] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [nom] => Hajji
+                    [prenom] => Yassine
+                    [email] => yassinehajji@gmail.com
+                )
+
+        )
+
+    [infraction] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [date_creation] => 2022-02-01
+                    [montant] => 60
+                    [etat_paiement] => 0
+                )
+
+        )
+
+)
+
+--- call http://localhost:8000/polls/show/5555/ at 2022-Feb-02 17:00:02 ---
+Request : 5555
+Response : stdClass Object
+(
+    [code] => 0
+    [message] => numero de carte inexistant
+)
+
+--- call http://localhost:8000/polls/show/87654321/ at 2022-Feb-02 17:00:11 ---
+Request : 87654321
+Response : stdClass Object
+(
+    [code] => 0
+    [message] => numero de carte inexistant
+)
+
+--- call http://localhost:8000/polls/show/87654321/ at 2022-Feb-02 17:00:13 ---
+Request : 87654321
+Response : stdClass Object
+(
+    [code] => 0
+    [message] => numero de carte inexistant
+)
+
+--- call http://localhost:8000/polls/show/1111111/ at 2022-Feb-02 17:00:20 ---
+Request : 1111111
+Response : stdClass Object
+(
+    [code] => 0
+    [message] => numero de carte inexistant
+)
+
+--- call http://localhost:8000/polls/show/11111111/ at 2022-Feb-02 17:00:27 ---
+Request : 11111111
+Response : stdClass Object
+(
+    [code] => 1
+    [citoyen] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [nom] => Hajji
+                    [prenom] => Yassine
+                    [email] => yassinehajji@gmail.com
+                )
+
+        )
+
+    [infraction] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [date_creation] => 2022-02-01
+                    [montant] => 60
+                    [etat_paiement] => 0
+                )
+
+        )
+
+)
+
+--- call http://localhost:8000/polls/show/22222222/ at 2022-Feb-02 17:01:27 ---
+Request : 22222222
+Response : stdClass Object
+(
+    [code] => 0
+    [message] => numero de carte inexistant
+)
+

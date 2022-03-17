@@ -94,3 +94,91 @@ Response : stdClass Object
     [message] => numero de carte inexistant
 )
 
+--- call http://localhost:8000/polls/show/55/ at 2022-Feb-01 22:35:13 ---
+Request : 55
+Response : stdClass Object
+(
+    [code] => 0
+    [message] => numero de carte inexistant
+)
+
+--- call http://localhost:8000/polls/show/55/ at 2022-Feb-01 22:35:13 ---
+Request : 55
+Response : stdClass Object
+(
+    [code] => 0
+    [message] => numero de carte inexistant
+)
+
+--- call http://localhost:8000/polls/show/55/ at 2022-Feb-01 22:35:13 ---
+Request : 55
+Response : stdClass Object
+(
+    [code] => 0
+    [message] => numero de carte inexistant
+)
+
+--- call http://localhost:8000/polls/show/55/ at 2022-Feb-01 22:35:13 ---
+Request : 55
+Response : stdClass Object
+(
+    [code] => 0
+    [message] => numero de carte inexistant
+)
+
+--- call http://localhost:8000/polls/show/44/ at 2022-Feb-01 22:35:13 ---
+Request : 44
+Response : stdClass Object
+(
+    [code] => 0
+    [message] => numero de carte inexistant
+)
+
+--- call http://localhost:8000/polls/show/11111111/ at 2022-Feb-01 22:35:13 ---
+Request : 11111111
+Response : stdClass Object
+(
+    [code] => 0
+    [message] => numero de carte inexistant
+)
+
+--- call http://localhost:8000/polls/show/55/ at 2022-Feb-01 22:35:13 ---
+Request : 55
+Response : stdClass Object
+(
+    [code] => 0
+    [message] => numero de carte inexistant
+)
+
+--- call http://localhost:8000/polls/show/55/ at 2022-Feb-01 22:35:13 ---
+Request : 55
+Response : stdClass Object
+(
+    [code] => 0
+    [message] => numero de carte inexistant
+)
+
+--- call http://localhost:8000/polls/show/55/ at 2022-Feb-01 22:35:13 ---
+Request : 55
+Response : stdClass Object
+(
+    [code] => 0
+    [message] => numero de carte inexistant
+)
+
+--- call http://localhost:8000/polls/show/55/ at 2022-Feb-01 22:35:13 ---
+Request : 55
+Response : stdClass Object
+(
+    [code] => 0
+    [message] => numero de carte inexistant
+)
+
+--- call http://localhost:8000/polls/show/55/ at 2022-Feb-01 22:35:15 ---
+Request : 55
+Response : stdClass Object
+(
+    [code] => 0
+    [message] => numero de carte inexistant
+)
+
